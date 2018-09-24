@@ -1,0 +1,25 @@
+_repo: Hans-Nielsen-Hauge_56258
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bull, Jakob B.
+    gutenberg_agent_id: '48746'
+    url: http://www.gutenberg.org/2009/agents/48746
+  editor:
+    agent_name: Leiviskä, Hannes
+    alias: Leiviska, Hannes
+    gutenberg_agent_id: '37029'
+    url: http://www.gutenberg.org/2009/agents/37029
+description: ''
+gutenberg_issued: '2017-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56258'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Hans Nielsen Hauge
+url: http://www.gutenberg.org/ebooks/56258
